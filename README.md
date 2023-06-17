@@ -113,7 +113,7 @@ To run tests, run the following command:
 👤 **Fuad Nabiyev**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
-- Twitter: [FuadNebiyev2](https://twitter.com/FuadNebiyev2)
+- Twitter: [FuadNebiyev2](https://twitter.com/FuadNabiyev_)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
 
 👤 **Zainab Al-Zubair**
